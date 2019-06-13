@@ -1,0 +1,15 @@
+﻿  BaseElement.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Data.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Element.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  main.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Menu.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Sortings.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Visualizer.cpp
+c:\users\zarko\desktop\visualsort\visualsort\helpers.h(4): fatal error C1083: Не удается открыть файл включение: SFML/Graphics.hpp: No such file or directory,
+  Создание кода...
